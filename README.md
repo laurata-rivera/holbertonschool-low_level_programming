@@ -1,1 +1,1 @@
-#Welcome to the fun world of C
+#Welcome to the fun world of programming C
