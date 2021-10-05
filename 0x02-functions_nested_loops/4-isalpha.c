@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _islower - returns 1 is lowercase, 0 otherwise
+ * _isalpha - checks if c is a alphabetic character
  * @c: Input parameter in ASCII
  *
  * Return: 0n success 1.
